@@ -1,0 +1,465 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8" />
+  <base href="https://iedcr.gov.bd/website/" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="IEDCR,Disease Control, Research, Surveillence" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="IEDCR is the national institute for conducting disease surveillance and outbreak investigation. It has been engaged in controlling disease and involved in researches on health events of public health importance." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Institute of Epidemiology, Disease Control and Research (IEDCR)</title>
+  <link href="/website/templates/yoo_nano/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/website/cache/widgetkit/widgetkit-26f01f0a.css" type="text/css" />
+  <link rel="stylesheet" href="https://iedcr.gov.bd/website/modules/mod_xpertscroller/interface/css/xpertscroller-basic.css" type="text/css" />
+  <style type="text/css">
+    <!--
+
+            #xs_212 {width: 805px; height: 40px;}
+            #xs_212 .pane {width: 805px }
+            #xs_212 .items { width:20000em; }
+            #xs_212 .pane .item{width:100%; overflow:hidden; }
+            #xs_212 .item img{width: 150px; height: 150px;}
+            .xs_212 a.browse{ margin:40px 10px; }
+            
+        
+    -->
+  </style>
+  <script type="text/javascript" src="/website/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/website/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/website/templates/yoo_nano/warp/libraries/jquery/jquery.js"></script>
+  <script type="text/javascript" src="/website/cache/widgetkit/widgetkit-c0fac08f.js"></script>
+  <script type="text/javascript" src="https://iedcr.gov.bd/website/modules/mod_xpertscroller/interface/js/xpertscroller.js"></script>
+  <script type="text/javascript">
+
+            jQuery(document).ready(function(){
+                jQuery('#xs_212').scrollable({ 
+                    vertical: false,
+                    speed: 5000,
+                    circular: true,
+                    keyboard: false
+                }).autoscroll({ autoplay: true , interval: 3000, autopause:true });
+            });
+        
+  </script>
+
+<link rel="apple-touch-icon-precomposed" href="/website/templates/yoo_nano/apple_touch_icon.png" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/base.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/styles/page/css/layout.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/styles/page/css/menus.css" />
+<style>body { min-width: 980px; }
+.wrapper { width: 980px; }
+#sidebar-a { width: 200px; }
+#sidebar-b { width: 200px; }
+#maininner { width: 580px; }
+#maininner, #sidebar-a { position: relative; }
+#maininner { left: 200px; }
+#sidebar-a { left: -580px; }
+#menu .dropdown { width: 230px; }
+#menu .columns2 { width: 460px; }
+#menu .columns3 { width: 690px; }
+#menu .columns4 { width: 920px; }</style>
+<link rel="stylesheet" href="/website/templates/yoo_nano/styles/page/css/modules.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/tools.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/styles/page/css/system.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/extensions.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/custom.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/color1/green.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/color2/green.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/font2/arial.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/font3/yanonekaffeesatz.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/styles/page/css/style.css" />
+<link rel="stylesheet" href="/website/templates/yoo_nano/css/print.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,light" />
+<script src="/website/templates/yoo_nano/warp/js/warp.js"></script>
+<script src="/website/templates/yoo_nano/warp/js/accordionmenu.js"></script>
+<script src="/website/templates/yoo_nano/warp/js/dropdownmenu.js"></script>
+<script src="/website/templates/yoo_nano/js/template.js"></script>
+</head>
+
+<body id="page" class="page sidebar-a-left sidebar-b-right isblog " data-config='{"twitter":0,"plusone":0}'>
+
+		
+	<div class="wrapper">
+
+		<header id="header">
+
+			<div id="toolbar" class="grid-block">
+
+									
+								
+			</div>
+
+			<div id="headerbar" class="grid-block">
+			
+					
+				<a id="logo" href="https://iedcr.gov.bd/website"><table style="width: 931px;">
+<tbody>
+<tr>
+<td style="vertical-align: top; width: 89px;"><img src="/website/images/stories/logo_new.jpg" alt="" /></td>
+<td style="vertical-align: top;"><br /><span style="color: #339966; font-size: 18pt;">&nbsp;</span> <br /><span style="color: #339966;"><span style="font-size: 18pt;">Institute of Epidemiology, Disease Control and Research</span> <span style="font-size: 18pt;"> <br /><br />রোগতত্ত্ব, রোগ নিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউট</span></span></td>
+<td><img src="/website/images/stories/bangladesh government logo.png" alt="" width="100" height="100" align="right" /></td>
+</tr>
+</tbody>
+</table></a>
+								
+								
+			</div>
+
+			<div id="menubar" class="grid-block">
+				
+								<nav id="menu"><ul class="menu menu-dropdown"><li class="level1 item1 active current"><a href="https://iedcr.gov.bd/website/" class="level1 active current"><span>Home</span></a></li><li class="level1 item77 parent"><a href="#" class="level1 parent"><span>About IEDCR</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="level2"><li class="level2 item79"><a href="http://www.iedcr.gov.bd/images/PDF/Organogram Final.pdf" class="level2"><span>IEDCR Organogram</span></a></li><li class="level2 item78"><a href="/website/index.php/about-iedcr/about-us" class="level2"><span>About Us</span></a></li><li class="level2 item81"><a href="/website/index.php/about-iedcr/officers-a-staff" class="level2"><span>Officers &amp; Staff List</span></a></li></ul></div></div></div></div></li><li class="level1 item75"><a href="/website/index.php/outbreak" class="level1"><span>Outbreak</span></a></li><li class="level1 item99"><a href="/website/index.php/surveillance" class="level1"><span>Surveillance</span></a></li><li class="level1 item76 parent"><span class="separator level1 parent"><span>Training</span></span><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="level2"><li class="level2 item110"><a href="/website/index.php/training/training" class="level2"><span>Training</span></a></li><li class="level2 item102"><a href="/website/index.php/training/workshops" class="level2"><span>Workshops</span></a></li><li class="level2 item176"><a href="/website/index.php/training/meeting" class="level2"><span>Meeting</span></a></li></ul></div></div></div></div></li><li class="level1 item82 parent"><a href="#" class="level1 parent"><span>Research</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="level2"><li class="level2 item83"><a href="/website/index.php/research/iedcr-research" class="level2"><span>IEDCR Research</span></a></li><li class="level2 item111"><a href="/website/index.php/research/phd-researcher" class="level2"><span>Phd Researcher</span></a></li></ul></div></div></div></div></li><li class="level1 item91 parent"><a href="#" class="level1 parent"><span>Activities</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="level2"><li class="level2 item98"><a href="/website/index.php/activities/media-orientation" class="level2"><span>Media Orientation</span></a></li><li class="level2 item100"><a href="/website/index.php/activities/media-monitoring" class="level2"><span>Media Monitoring</span></a></li><li class="level2 item101"><a href="/website/index.php/activities/events" class="level2"><span>Events</span></a></li><li class="level2 item180"><a href="/website/index.php/activities/archieve" class="level2"><span>IEDCR Archieve</span></a></li></ul></div></div></div></div></li><li class="level1 item90"><a href="/website/index.php/publications" class="level1"><span>Publications</span></a></li><li class="level1 item84"><a href="/website/index.php/contact-us" class="level1"><span>Contact Us</span></a></li></ul></nav>
+				
+								
+			</div>
+		
+					
+		</header>
+
+				<section id="top-a" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-line  deepest">
+
+			
+<div id="slideshow-1-5edd3888c5500" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"style":"default","autoplay":1,"interval":5000,"width":950,"height":340,"duration":500,"index":0,"order":"default","navigation":0,"buttons":0,"slices":20,"animated":"puzzle","caption_animation_duration":500}'>
+	<div>
+		<ul class="slides">
+
+									<li>
+				<article class="wk-content clearfix"><img src="/website/images/stories/iedcr/slideshow/slide_1.jpg" alt="slide 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/slide_5.jpg" alt="slide 5" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/slide_1.jpg" alt="slide 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/bippa.jpg" alt="bippa" /><img src="/website/images/stories/iedcr/slideshow/Minister_Pheoc.jpg" alt="Minister_Pheoc" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/17th_march1_2019.jpg" alt="17 March 19 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/17th_march2_2019.jpg" alt="17 March 19 2" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/17th_march3_2019.jpg" alt="17 march 19 3" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/minister_2019.jpg" alt="15 aug 18 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/proti_montri.jpg" alt="15 aug 18 2" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/DFP_1.jpg" alt="DFP 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/D2P_1.jpg" alt="D2P 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/coxs_rohiyanga.jpg" alt="coxs_rohiyanga" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/dmc_nisb.jpg" alt="dmc_nisb" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/Minister_new_Building.jpg" alt="Minister_new_Building" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/rally_2.jpg" alt="rally_2" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/brac_cdm.jpg" alt="brac_cdm" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/fetpb_grad_1.jpg" alt="fetpb grad 1" /></article>
+			</li>
+												<li>
+				<article class="wk-content clearfix"><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/website/images/stories/iedcr/slideshow/newslide_8.jpg" alt="newslide 8" /></article>
+			</li>
+								</ul>
+				<div class="caption"></div><ul class="captions"><li></li><li></li><li></li><li>Bangladesh Independent Power Producer's Association (BIPPA) handing over PPE to Director, IEDCR</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>Cox's Bazar Rohingya Camp</li><li>NISB sample Collection at DMCH</li><li></li><li></li><li></li><li></li><li></li></ul>
+	</div>
+	</div>		
+</div></div></section>
+				
+				<section id="top-b" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-line  deepest">
+
+		<h3 class="module-title"><span class="color">Current</span> Activities</h3>	
+<div class="xs_212  basic_h">
+        <a class="prev browse left"></a>
+    <div id="xs_212" class="scroller">
+        <div class="items">
+                    <div class="pane">
+                                            <div class="item">
+                    <div class="padding clearfix">
+                        
+                                                    <h4><a target="_blank" href="/website/index.php/component/content/article/98-covidmsg">যদি আপনার জ্বর/ কাশি/ গলা ব্যথা / শ্বাসকষ্ট  থাকে তাহলে অতি দ্রুত IEDCR এর হটলাইন নাম্বারে যোগাযোগ করুন </a></h4>
+                                                
+                                                                        
+                                            </div>
+                </div>
+                                        </div>
+                </div>
+    </div>
+        <a class="next browse right"></a>
+</div>		
+</div></div></section>
+				
+				<div id="main" class="grid-block">
+		
+			<div id="maininner" class="grid-box">
+			
+								
+					
+				
+								<section id="content" class="grid-block">
+
+<div id="system">
+	
+	
+	<article class="item">
+
+			
+				
+		<div class="content clearfix"><p style="text-align: center;"><span style="font-size: 14pt;"><strong>Institute of Epidemiology, Disease Control and Research </strong></span><br /><span style="font-size: 10pt;">&nbsp;</span></p>
+<p class="dropcap">IEDCR stands for Institute of Epidemiology, Disease Control and Research. The present Institute of Epidemiology, Disease Control and Research (IEDCR) was established in 1976 through a bill approved in the Parliament which called for the establishment of an institute for epidemiological and communicable disease research as well as functioning of disease control programs mainly in the form of parasitic and entomological containment of vector borne diseases <a href="/website/index.php/about-iedcr/about-us">read more...</a></p>
+<!--                                                           
+<table>
+<tbody>
+<tr>
+<td valign="top" width="200">
+<ul class="check">
+<b>OBJECTIVES</b>
+<li>Disease Surveillance</li>
+<li>Outbreak Investigation<br />&amp; Response</li>
+<li>Research &amp; Training</li>
+</ul>
+</td>
+<td valign="top" width="200">
+<ul class="check">
+<b>LABORATORIES</b>
+<li>Medical Entomology</li>
+<li>Microbiology</li>
+<li>Parasitology</li>
+<li>Virology</li>
+<li>Zoonosis</li>
+<li>BSL-2 Lab</li>
+<li>BSL-3 Lab</li>
+<li>RT-PCR Lab</li>
+</ul>
+</td>
+<td valign="top" width="200">
+<ul class="check">
+<b>DEPARTMENTS</b>
+<li>Biostatistics</li>
+<li>Epidemiology</li>
+<li>Medical Entomology</li>
+<li>Medical Social Science</li>
+<li>Microbiology</li>
+<li>Parasitology</li>
+<li>Virology</li>
+<li>Zoonosis</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<p><a href="/website/index.php/component/content/article/129-gddlaunching"><span style="font-size: 12pt;"><strong>Launching Ceremony of<br />Global Disease Detection (GDD) Regional Center and <br />Field Epidemiology Training Programme, Bangladesh (FETP,B) </strong></span></a><br /><span style="font-size: 10pt;">&nbsp;</span></p>
+
+<p><a href="/website/images/PDF/Training/MERS &amp; H7N9 Training.pdf"><span style="font-size: 12pt;"><strong>MERS Co-V &amp; H7N9</strong></span></a><br /><span style="font-size: 10pt;">&nbsp;</span></p>-->
+
+<!--
+<p class="dropcap">The Institute of Epidemiology, Disease Control and Research (IEDCR) is organizing the launching ceremony of the Global Disease Detection (GDD) Regional Center in Bangladesh and the official inauguration of the Field Epidemiology Training Programme, Bangladesh (FETP,B). The ceremony will be held on 20 August, 2013 at 9:30 am at IEDCR auditorium, Mohakhali, Dhaka.<strong> Professor A F M Ruhal Haque</strong> M.P. Honourble Minister for Health and Family Welfare (MoHFW) has given his kind consent to be present as the Chief Guest. <strong>Prof. (Dr.) Khondhaker Md. Shefyetullah</strong>, Director General of Health Services; <strong>Mr. Jon F. Danilowicz</strong>, Deputy Chief of Mission, Embassy of the United States of America, Dhaka; <strong>Dr. Thomas Kenyon</strong>, Director, Center for Global Health, US CDC (Atlanta); <strong>Dr. Kashef Ijaz</strong>, US CDC (Atlanta) Country Manager, Bangladesh, Principal Deputy Director, Division of Global Health Protection (proposed); and other high officials of US CDC (Atlanta) will be present as Special Guests.<br /> <strong>Mr. M M Neazuddin</strong>, Honourable Secretary, Ministry of Health and Family Welfare will chair the session.</p>
+--></div>
+
+
+				
+		
+	</article>
+
+</div></section>
+								
+				<section class="grid-block">
+				    
+				    
+				    
+				</section>
+
+								<section id="innerbottom" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-line  deepest">
+
+		<h3 class="module-title">News/Events</h3>	<p><span style="font-size: 16pt; color: #ff6600;"><strong><a href="/website/index.php/component/content/article/73-ncov-2019"><span style="color: #ff6600;">করোনাভাইরাস (কোভিড-১৯) সম্পর্কিত প্রয়োজনীয়<br /><br /> তথ্যাবলি</span></a></strong></span></p>
+<table style="height: 350px; width: 550px; border: 1px solid;">
+<tbody>
+<tr style="height: 10px;">
+<td><span style="font-size: 14pt;"><a href="/images/files/nCoV/leaflet final v4.pdf">করোনাভাইরাসের (কোভিড-১৯) প্রাদুর্ভাব রোধে জনসচেতনতা মূলক তথ্যাবলি</a></span></td>
+</tr>
+<tr style="height: 10px;">
+<td><span style="font-size: 14pt;"><a href="/images/PDF/Health_Message/chikungunya Final_01082017.pdf">National Guideline on Clinical Management of Chikungunya Fever<br />(Post Chikungunya and Arthralgia Included)</a></span></td>
+</tr>
+<tr style="height: 10px;">
+<td><span style="font-size: 14pt;"><a href="/website/images/files/dengue/NationalGuidelineforDengue2018.pdf">National Guideline for Clinical Management of Dengue Syndrome-2018</a></span></td>
+</tr>
+<tr style="height: 10px;">
+<td><span style="font-size: 14pt;"><a href="/website/images/files/dengue/Pocket Guideline of Dengue Management 2019.pdf">Pocket Guideline of Dengue Management 2019</a></span></td>
+</tr>
+<tr style="height: 10px;">
+<td><span style="font-size: 14pt;"><a href="/website/pdf/files/nipah/National Guideline for Management, Prevention and control of Nipa Virus infection including encephalitis.pdf">National Guideline for Management, Prevention and control of Nipah Virus infection</a></span></td>
+</tr>
+<!--<tr>
+<td><a href="/images/PDF/Health_Message/chikungunya Final_01082017.pdf"><img src="/website/images/stories/iedcr/chikungunya.jpg" alt="chikungunya" width="540px" height="70px" /></a></td>
+ <!--<tr>
+<td><span style="font-size: 14pt;"><a href="/website/images/PDF/fetpb/FETPB_Recruit.pdf">Vacancy_Announcement<img src="/website/images/M_images/new1.gif" alt="new1" /></a></span></td>
+</tr>-->
+<tr style="height: 10px;">
+<td><a href="/pdf/files/One Health/Health News Letter -11-06-2018 MMH edited.compressed.pdf"><span style="font-size: 14pt;">One Health Newsletter</span></a></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /><br /></p>
+<p><span style="font-size: 14pt;">Seasonal Health Message</span></p>
+<table style="height: 300px; width: 550px; border: 1px solid;">
+<tbody>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>নোভেল করোনা ভাইরাস সম্পর্কিত স্বাস্থ্য বার্তা&nbsp;</strong><a href="/website/index.php/component/content/article/73-ncov-2019">বিস্তারিত..</a></span></td>
+</tr>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>পানিবাহিত রোগব্যাধি থেকে বাঁচতে করণীয় </strong><a href="/images/PDF/Health_Message/Diarrhoea_IEC.jpg"> বিস্তারিত..</a></span></td>
+</tr>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>নিপাহ ভাইরাস সম্পর্কিত স্বাস্থ্য বার্তা</strong> <a href="/images/PDF/Health_Message/nipah-Health-Message.pdf"> বিস্তারিত..</a></span></td>
+</tr>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>ডেঙ্গু ও চিকুনগুনিয়া ভাইরাস সংক্রমণ সম্পর্কিত প্রয়োজনীয় তথ্য </strong> -হঠাৎ ভারী বর্ষণ এবং আসন্ন বর্ষা মৌসুমে এডিস মশার বংশবিস্তারের কারণে এডিস মশাবাহিত ডেঙ্গু ও চিকুনগুনিয়া রোগের প্রকোপ বৃদ্ধি পেতে পারে। এমতাবস্থায় ডেঙ্গু ও চিকুনগুনিয়া রোগ বিষয়ে আগাম সতর্কতা এবং এডিস মশা নির্মূলে প্রতিরোধ ব্যবস্থা নেয়া অতীব জরুরী।<a href="/images/PDF/Health_Message/Dengue_Chikungunya_Health message_V03_2018.pdf"> বিস্তারিত..</a></span></td>
+</tr>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>জিকা ভাইরাস সংক্রমণ সম্পর্কিত প্রয়োজনীয় তথ্য</strong> <a href="/website/index.php/component/content/article/160-zikavirus"> বিস্তারিত..</a></span></td>
+</tr>
+<tr>
+<td style="line-height: 1.8;"><span style="font-size: 11pt;"><strong>MERS-CoV সম্পর্কিত প্রয়োজনীয় তথ্য</strong> <a href="/website/index.php/component/content/article/139-mers-corona"> বিস্তারিত..</a></span></td>
+</tr>
+</tbody>
+</table>		
+</div></div></section>
+				
+			</div>
+			<!-- maininner end -->
+			
+						<aside id="sidebar-a" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><span style="color: #008000;"><a href="http://114.31.0.246/newchamps/">CHAMPS</a></span></span></strong></span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="http://119.148.17.101:8080/dhis"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">Web Based<span class="mainlevel"> Disease Surveillance System</span></span></strong></span></a></div>
+
+
+<!--index.php?option=com_content&amp;view=article&amp;id=149:dhis2update&amp;catid=11:others-->		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+			<p><span style="font-size: 10pt;"><strong>Workforce Development </strong></span></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><a href="/website/index.php/component/content/article/141-fetpbmain"><span style="color: #008000;">Field Epidemiology Training Programme, Bangladesh (FETP,B)</span></a></span></strong></span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><a href="/website/index.php/component/content/article/163-frontlinefetpb"><span style="color: #008000;">Field Epidemiology Training Program-Frontline</span></a></span></strong></span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/159-impactnew"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">Distinguished Fellowship Program (DFP) </span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="http://www.capable-bangladesh.org/capacity-development/advanced-short-courses/"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><span style="color: #008000;"><img src="/website/images/M_images/capable-logo-1.png" alt="capable-logo-1" width="80" height="60" /></span></span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/98-clinical-epidemiology-course"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><span style="color: #008000;">Certificate Course in Clinical Epidemiology</span></span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+			<p style="text-align: center;"><span style="font-size: 10pt;"><strong>Others </strong></span></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><a href="http://119.148.17.100:8080/amr"><span style="color: #008000;">GHSA</span></a></span></strong></span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/196-one-health"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><span style="color: #008000;">One Health</span></span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/205-epab"><span style="color: #008000;"><strong><span style="font-size: 12pt;"><span style="color: #008000;">EPAB</span></span></strong></span></a></div>		
+</div></div><div class="sidebar-bg"></div></aside>
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-line right_acc_menu deepest">
+
+			<ul class="menu menu-sidebar"><li class="level1 item112"><a href="/website/index.php/dengue" class="level1"><span>Dengue</span></a></li><li class="level1 item87 parent"><span class="separator level1 parent"><span>Anthrax</span></span><ul class="level2"><li class="level2 item88"><a href="/website/index.php/antharx/anthrax-outbreak" class="level2"><span>Anthrax Outbreak</span></a></li><li class="level2 item173"><a href="/pdf/files/anthrax/Cutaneous Anthrax_2010_13_2.pdf" target="_blank" class="level2"><span>Cutaneous Anthrax (2010-13)</span></a></li></ul></li><li class="level1 item142 parent"><span class="separator level1 parent"><span>PHEOC</span></span><ul class="level2"><li class="level2 item186"><a href="/website/index.php/pheoc/pheocmonthlynewsletter" class="level2"><span>Monthly Newsletter</span></a></li><li class="level2 item143"><a href="/pdf/files/chikungunya/Chikungunya Bangla V2 250916.pdf" class="level2"><span>Chikungunya Fever</span></a></li><li class="level2 item185"><a href="/website/index.php/pheoc/chikungunya-newsletter" class="level2"><span>Special Newsletter</span></a></li><li class="level2 item187"><a href="/website/index.php/pheoc/chiklatestupdate" class="level2"><span>Chikungunya Latest Update</span></a></li></ul></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="font-size: 11pt; color: #008000;"><strong><span style="font-size: 14pt; color: #008000;"></span><br /><span style="color: #339966; font-size: 14pt;">HOTLINE</span><br />10655<br />+8801944333222<br />+8801937000011<br />+8801937110011<br />+8801927711784<br />+8801927711785</span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;"><span style="color: #ff9900; font-size: 14pt;"><a href="/website/index.php/component/content/article/73-ncov-2019"><span style="color: #ff9900;">COVID-19</span></a></span><a href="/website/index.php/component/content/article/73-ncov-2019"><img src="/website/images/M_images/new1.gif" alt="new1" /></a></span></strong></span></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/210-nbph"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">National Bulletin of Public Health(NBPH)</span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><span style="color: #008000; height: 30px;"></span><a href="/website/index.php/component/content/article/150-vacancyannouncemnet"><strong><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">Vacancy Announcement</span></strong></span></strong><br />STI Surveillance MT Final Result</a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/199-libraryinfo"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">Library</span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance"><a href="/website/index.php/component/content/article/158-noc"><span style="color: #008000; height: 30px;"><strong><span style="font-size: 12pt;">NOC</span></strong></span></a></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance">
+<p><span style="color: #35c965;"><strong><span style="font-size: 12pt;"><a href="/website/images/PDF/IDS Form.pdf">Download IDS Form</a></span></strong></span></p>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line left_col_head deepest">
+
+			<div id="disease_survelliance">
+<p><span style="color: #35c965;"><strong><span style="font-size: 12pt;"><a href="/website/images/PDF/Dengue_form_2019.pdf">Download Dengue Case Report Form</a></span></strong></span></p>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line link_and_collaboration deepest">
+
+			<span style="font-size: 11pt;"><strong>Link and Collaboration </strong></span><br /> <br /> 
+<ul class="zebra">
+<li><a href="http://www.mohfw.gov.bd/">MoHFW</a></li>
+<li><a href="http://www.mofl.gov.bd/">MoFL</a></li>
+<li><a href="http://www.dghs.gov.bd/">DGHS</a></li>
+<li><a href="http://www.who.int/">WHO</a></li>
+<li><a href="http://www.icddrb.org/">Icddr,b</a></li>
+<li><a href="http://www.cdc.gov/">CDC</a></li>
+<li><a href="http://www.ianphi.org/">IANPHI</a></li>
+<li><a href="http://www.cam.ac.uk/">University of Cambridge</a></li>
+</ul>		
+</div></div><div class="sidebar-bg"></div></aside>
+			
+		</div>
+				<!-- main end -->
+
+				
+				
+				<footer id="footer" class="grid-block">
+
+						
+			<div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item149"><a href="http://www.iedcr.org" class="level1"><span>Home</span></a></li><li class="level1 item150"><a href="http://mail.iedcr.gov.bd/webmail" target="_blank" class="level1"><span>Webmail</span></a></li><li class="level1 item151"><a href="/website/index.php/contact-us" class="level1"><span>Contact us</span></a></li></ul>		
+</div>
+<div class="module visitor visitor deepest">
+
+			<strong>Content View Hits</strong> : 2972212<br />
+		
+</div>
+<div class="module   deepest">
+
+			<p>Copyright© 2018 IEDCR<br /> Developed By <a href="http://www.activationltd.com" target="_blank">Activation Ltd.</a></p>		
+</div>
+		</footer>
+		
+	</div>
+	
+		
+</body>
+</html>
